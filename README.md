@@ -1,7 +1,4 @@
 # College_Course_Chatbot
-Scraping one of the MIT OCW course website data and using Retrieval-Augmented Generation (RAG) to enhance content accessibility.
-
-# College Website RAG Enhancement
 Leveraging web scraping and Retrieval-Augmented Generation (RAG) to make college course information more accessible and interactive.
 
 ## Features
